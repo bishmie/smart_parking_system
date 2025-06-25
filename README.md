@@ -30,7 +30,7 @@ PDF receipt generation
 ![WhatsApp Image 2025-06-25 at 3 00 56 PM](https://github.com/user-attachments/assets/c6b30583-9650-4d8b-9f43-29f8ec25fb00)
 
 
-[Postman Collection](./postman_collection.json)
+[Postman Collection](https://raw.githubusercontent.com/bishmie/smart_parking_system/master/docs/postman_collection.json)
 
 
 
