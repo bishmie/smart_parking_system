@@ -9,9 +9,8 @@ Microservice-based parking management solution for urban environments.
 - API Gateway
 
 ## Services
-1. User Service - Manages user accounts
-2. Parking Service - Manages parking spaces
-3. Vehicle Service - Manages vehicle information
-4. Payment Service - Handles payment processing
-
+Vehicle management
+Smart reservation and space updates
+Payment with mock validation
+PDF receipt generation
 
